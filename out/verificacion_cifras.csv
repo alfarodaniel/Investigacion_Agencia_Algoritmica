@@ -1,0 +1,113 @@
+seccion,cifra,publicado,recalculado,coincide
+4.1,B1 registros,642,642,SI
+4.1,B2 registros,525,525,SI
+4.1,B3 registros,59,59,SI
+4.1,B1b registros,785,785,SI
+4.1,B1b adicionales sobre B1,143,143,SI
+4.1,B1b incremento %,22.3,22.3,SI
+4.1,Registros brutos B1+B2+B3,1226,1226,SI
+4.1,Duplicados entre busquedas,106,106,SI
+4.1,Registros unicos,1120,1120,SI
+4.1,Nucleo B1 n (B2 u B3),76,76,SI
+4.1,Texto completo evaluado,45,45,SI
+4.1,No recuperados,31,31,SI
+4.1,Incluidos,18,18,SI
+4.1,Excluidos,27,27,SI
+4.2,B1 documentos 2021,35,35,SI
+4.2,B1 documentos 2022,30,30,SI
+4.2,B1 documentos 2023,40,40,SI
+4.2,B1 documentos 2024,54,54,SI
+4.2,B1 documentos 2025,174,174,SI
+4.2,B1 documentos 2026,309,309,SI
+4.2,% publicado en 2025-2026,75.2,75.2,SI
+4.2,Mediana de citas,0.5,0.5,SI
+4.2,Documentos con cero citas,321,321,SI
+4.2,Publicacion anticipada (n),57,57,SI
+4.2,Publicacion anticipada (%),8.9,8.9,SI
+4.2,Acceso abierto (%),50.3,50.3,SI
+4.2,Fuentes distintas,496,496,SI
+4.2,Documentos en la fuente mayor,9,9,SI
+4.2,% en la fuente mayor,1.4,1.4,SI
+4.2,% en las 10 fuentes mayores,9.0,9.0,SI
+4.2,Fuentes con un solo documento,407,407,SI
+4.2,% del corpus en fuentes con un documento,63.4,63.4,SI
+4.2,Indice de Herfindahl,0.0029,0.0029,SI
+4.2,Areas ASJC distintas,24,24,SI
+4.2,Asignaciones ASJC totales,1201,1201,SI
+4.2,Areas por documento,1.87,1.87,SI
+4.2,Asignaciones del nucleo administrativo,245,245,SI
+4.2,% del nucleo administrativo,20.4,20.4,SI
+Tabla 1,"""algorithmic curation"" (n)",234,234,SI
+Tabla 1,"""algorithmic curation"" (%)",36.4,36.4,SI
+Tabla 1,"""consumer autonomy"" (n)",135,135,SI
+Tabla 1,"""consumer autonomy"" (%)",21.0,21.0,SI
+Tabla 1,"""algorithmic manipulation"" (n)",101,101,SI
+Tabla 1,"""algorithmic manipulation"" (%)",15.7,15.7,SI
+Tabla 1,"""algorithmic authority"" (n)",85,85,SI
+Tabla 1,"""algorithmic authority"" (%)",13.2,13.2,SI
+Tabla 1,"""algorithmic agency"" (n)",50,50,SI
+Tabla 1,"""algorithmic agency"" (%)",7.8,7.8,SI
+Tabla 1,"""illusion of autonomy"" (n)",14,14,SI
+Tabla 1,"""illusion of autonomy"" (%)",2.2,2.2,SI
+Tabla 1,"""algorithmic consumer culture"" (n)",6,6,SI
+Tabla 1,"""algorithmic consumer culture"" (%)",0.9,0.9,SI
+Tabla 1,"""algorithmic bounded rationality"" (n)",1,1,SI
+Tabla 1,"""algorithmic bounded rationality"" (%)",0.2,0.2,SI
+4.3,B1 n B2,74,74,SI
+4.3,B1 n B2 (% de B1),11.5,11.5,SI
+4.3,B1 n B3,8,8,SI
+4.3,B1 n B3 (% de B1),1.2,1.2,SI
+4.3,B2 n B3,30,30,SI
+4.3,Interseccion triple,6,6,SI
+4.3,B2 con termino nuclear de A,67,67,SI
+4.3,"B2 recuperados por ""recommender system""",311,311,SI
+4.4,Incluidos empiricos,8,8,SI
+4.4,Incluidos mixtos,5,5,SI
+4.4,Incluidos teoricos,5,5,SI
+4.4,Incluidos en acceso abierto,17,17,SI
+4.4,Incluidos en la interseccion con B2,17,17,SI
+4.4,Evaluados con MMAT,13,13,SI
+4.4,Evaluados con rubrica conceptual,5,5,SI
+4.4,Definiciones extraidas,40,40,SI
+4.4,Definiciones por documento,2.22,2.22,SI
+4.5,d3 gradual (de 40),40,40,SI
+4.5,d5 medible con instrumento,23,23,SI
+4.5,d5 medible sin instrumento,13,13,SI
+4.5,d5 no medible,4,4,SI
+4.5,d1 locus relacion,26,26,SI
+4.5,d1 locus relacion (%),65.0,65.0,SI
+4.5,d1 locus sistema,9,9,SI
+4.5,d1 locus usuario,5,5,SI
+4.6,Definiciones con rol nuclear,19,19,SI
+4.6,n del agrupamiento (sin atipica),18,18,SI
+4.6,Silueta k=4,0.247,0.247,SI
+4.6,Correlacion cofenetica,0.789,0.789,SI
+4.6,Tamanos de los conglomerados,"[4, 4, 4, 6]","[4, 4, 4, 6]",SI
+4.6,d9 manipulacion encubierta,18,18,SI
+4.6,d9 no aplica,10,10,SI
+4.6,d9 delegacion voluntaria,7,7,SI
+4.6,d9 filtrado del acceso,5,5,SI
+4.6,d10 potencialmente positiva,18,18,SI
+4.6,d10 ambivalente,12,12,SI
+4.6,d10 negativa,8,8,SI
+4.6,d10 neutra,2,2,SI
+Tabla 3,kappa d1_locus_agencia,0.414,0.414,SI
+Tabla 3,kappa d2_requiere_conciencia,0.143,0.143,SI
+Tabla 3,kappa d4_momento_respecto_deliberacion,0.321,0.321,SI
+Tabla 3,kappa d5_medible,0.703,0.703,SI
+Tabla 3,kappa d5_tipo_indicador,0.398,0.398,SI
+Tabla 3,kappa d7_umbrales_no_linealidad,0.159,0.159,SI
+Tabla 3,kappa d8_naturaleza_del_constructo,0.85,0.85,SI
+Tabla 3,kappa d9_via_de_perdida,0.457,0.457,SI
+Tabla 3,kappa d10_valencia_normativa,0.186,0.186,SI
+Tabla 3,kappa d11_nivel_de_analisis,0.578,0.578,SI
+4.7,Acuerdo medio,0.656,0.656,SI
+4.7,Kappa mediano (10 interpretables),0.406,0.406,SI
+4.7,Cofenetica esquema fiable,0.809,0.809,SI
+4.7,Silueta fiable k=3,0.317,0.317,SI
+4.7,Rand ajustado completo(k=4) vs fiable(k=3),0.537,0.537,SI
+4.8,Definiciones no nucleares,21,21,SI
+4.8,Antecedentes,11,11,SI
+4.8,Consecuencias,4,4,SI
+4.8,Marcos normativos,3,3,SI
+4.8,Vecinos,3,3,SI
