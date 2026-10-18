@@ -93,7 +93,7 @@ Durante el desarrollo, este guion detectó dos inconsistencias reales en el manu
 | `09_cluster.py` · `10_final.py` | Jaccard + enlace promedio | **4 dimensiones**, silueta 0,247 |
 | `14_kappa_y_sensibilidad.py` | Fiabilidad y sensibilidad | Tabla 3; ARI 0,537 |
 | `15_verificacion_cifras.py` | **Verificación integral** | `verificacion_cifras.csv` |
-| `11`, `13`, `14_*.py` | Figuras | PRISMA, dendrograma, intersección |
+| `11`, `12`, `13_*.py` | Figuras | PRISMA, dendrograma, intersección |
 
 ---
 
