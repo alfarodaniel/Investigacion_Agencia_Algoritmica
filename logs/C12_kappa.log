@@ -1,0 +1,46 @@
+Definiciones nucleares en ronda 1: 19
+Definiciones recodificadas en ronda 2: 19
+Definiciones emparejadas entre rondas: 19
+
+atributo                              acuerdo    kappa  categorias
+d1_locus_agencia                        0.632    0.414           4
+d2_requiere_conciencia                  0.421    0.143           3
+d3_gradual_binaria                      0.947    0.000           2
+d4_momento_respecto_deliberacion        0.579    0.321           4
+d5_medible                              0.842    0.703           3
+d5_tipo_indicador                       0.632    0.398           4
+d7_umbrales_no_linealidad               0.474    0.159           2
+d8_naturaleza_del_constructo            0.895    0.850           5
+d9_via_de_perdida                       0.579    0.457           5
+d10_valencia_normativa                  0.368    0.186           4
+d11_nivel_de_analisis                   0.842    0.578           3
+
+Acuerdo medio (11 atributos)        = 0.656
+Kappa mediano (10 interpretables) = 0.406   (rango 0.143 a 0.850)
+d3_gradual_binaria se excluye: kappa no interpretable por ausencia de varianza.
+
+Atributos con kappa >= 0,40 usados en la sensibilidad (5):
+   - d1_locus_agencia
+   - d5_medible
+   - d8_naturaleza_del_constructo
+   - d9_via_de_perdida
+   - d11_nivel_de_analisis
+
+--- COMPLETO (10 atributos, pre-especificado): n=18, 30 indicadores, cofenetica=0.789
+   k=2  silueta=0.193  tamanos=[8, 10]
+   k=3  silueta=0.209  tamanos=[8, 6, 4]
+   k=4  silueta=0.247  tamanos=[4, 4, 6, 4]
+   k=5  silueta=0.242  tamanos=[4, 4, 6, 3, 1]  [DEGENERADA: conglomerado unitario]
+   k=6  silueta=0.241  tamanos=[4, 4, 5, 1, 3, 1]  [DEGENERADA: conglomerado unitario]
+
+--- FIABLES (5 atributos, kappa>=0,40): n=18, 16 indicadores, cofenetica=0.809
+   k=2  silueta=0.281  tamanos=[5, 13]
+   k=3  silueta=0.317  tamanos=[5, 4, 9]
+   k=4  silueta=0.287  tamanos=[5, 4, 8, 1]  [DEGENERADA: conglomerado unitario]
+   k=5  silueta=0.334  tamanos=[5, 4, 3, 5, 1]  [DEGENERADA: conglomerado unitario]
+   k=6  silueta=0.327  tamanos=[4, 1, 4, 3, 5, 1]  [DEGENERADA: conglomerado unitario]
+
+Indice de Rand ajustado  completo(k=4) vs fiables(k=4) = 0.535
+Indice de Rand ajustado  completo(k=4) vs fiables(k=3) = 0.537
+
+Escritos: out/T5_kappa.csv  ·  out/sensibilidad_agrupamiento.csv

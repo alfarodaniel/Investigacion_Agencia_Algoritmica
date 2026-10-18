@@ -1,0 +1,103 @@
+
+======================================================================
+T1a_anio
+======================================================================
+        n     %  acum_%
+Year                   
+2021   35   5.5     5.5
+2022   30   4.7    10.2
+2023   40   6.2    16.4
+2024   54   8.4    24.8
+2025  174  27.1    51.9
+2026  309  48.1   100.0
+
+======================================================================
+T1b_tipo_estatus
+======================================================================
+Publication Stage  Article in press  Final  Total
+Document Type                                    
+Article                          51    370    421
+Book                              0     10     10
+Book chapter                      0     79     79
+Conference paper                  1     86     87
+Conference review                 0      3      3
+Editorial                         0      5      5
+Erratum                           0      1      1
+Note                              0      5      5
+Review                            5     23     28
+Short survey                      0      3      3
+Total                            57    585    642
+
+======================================================================
+T1c_acceso
+======================================================================
+                      n     %
+Acceso abierto      323  50.3
+Acceso restringido  319  49.7
+
+======================================================================
+T1d_dispersion
+======================================================================
+                                                  valor
+Fuentes distintas                              496.0000
+Fuente mas frecuente (n)                         9.0000
+% del corpus en la fuente mas frecuente          1.4000
+% del corpus en las 10 fuentes mayores           9.0000
+Fuentes con un solo documento                  407.0000
+% del corpus en fuentes con un solo documento   63.4000
+Indice de concentracion (Herfindahl)             0.0029
+
+======================================================================
+T1e_campo_INFERIDO
+======================================================================
+                             n     %
+campo_inferido                      
+Otros / no clasificado     230  35.8
+Computacion, IS y HCI      133  20.7
+Comunicacion y medios       95  14.8
+Marketing y consumo         89  13.9
+Etica, derecho y politica   38   5.9
+Psicologia y conducta       18   2.8
+Salud                       17   2.6
+Educacion                   13   2.0
+Sostenibilidad y ambiente    9   1.4
+
+======================================================================
+T2_intersecciones
+======================================================================
+                                    Conjunto     n   Proporcion                                           Nota
+0                  B1  Constructo (bloque A)   642        100.0                      Corpus de caracterizacion
+1     B1b Constructo ampliado (sensibilidad)   785  +22.3 vs B1  Anade "consumer agency" y "algorithmic nudg*"
+2  B2  Arquitectura algoritmica x consumidor   525            -                 Bloque A ampliado AND bloque B
+3  B3  Arquitectura algoritmica x sostenible    59            -                 Bloque A ampliado AND bloque C
+4                                    B1 ∩ B2    74  11.5% de B1       Constructo con vocabulario de consumidor
+5                                    B1 ∩ B3     8   1.2% de B1          Constructo con vocabulario sostenible
+6                                    B2 ∩ B3    30   5.7% de B2                        Consumidor y sostenible
+7   B1 ∩ (B2 ∪ B3)  = nucleo de codificacion    76  11.8% de B1                             Corpus del Nivel 2
+8              Union de las cuatro busquedas  1261            -                   Registros unicos recuperados
+
+======================================================================
+T3_terminos
+======================================================================
+                           termino    n     %
+3             algorithmic curation  234  36.4
+1                consumer autonomy  135  21.0
+2         algorithmic manipulation  101  15.7
+7            algorithmic authority   85  13.2
+0               algorithmic agency   50   7.8
+4             illusion of autonomy   14   2.2
+6     algorithmic consumer culture    6   0.9
+5  algorithmic bounded rationality    1   0.2
+
+== PRISMA (conteos disponibles) ==
+{
+  "identificacion_B1": 642,
+  "identificacion_B1b_adicionales": 143,
+  "identificacion_B2": 525,
+  "identificacion_B3": 59,
+  "identificacion_total_registros": 2011,
+  "duplicados_eliminados": 750,
+  "registros_unicos": 1261,
+  "nivel1_corpus_caracterizacion": 642,
+  "nivel2_nucleo_cribado_texto_completo": 76
+}

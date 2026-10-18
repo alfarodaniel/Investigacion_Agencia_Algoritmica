@@ -1,0 +1,74 @@
+B1: 642 registros, 642 EID unicos
+B1b: 785 registros, 785 EID unicos
+B2: 525 registros, 525 EID unicos
+B3: 59 registros, 59 EID unicos
+
+== SOLAPAMIENTO (EID) ==
+  B1 {'B1b': 642, 'B2': 74, 'B3': 8}
+  B1b {'B1': 642, 'B2': 76, 'B3': 8}
+  B2 {'B1': 74, 'B1b': 76, 'B3': 30}
+  B3 {'B1': 8, 'B1b': 8, 'B2': 30}
+
+B1 contenido en B1b: True | B1b anade: 143
+Union de las cuatro busquedas: 1261
+
+== NUCLEO B1 n B2 (constructo Y vocabulario de consumidor): 74
+B1 n B3 (constructo Y sostenible): 8
+B2 n B3: 30
+
+== B3 por ano ==
+Year
+2021     2
+2022     1
+2023     2
+2024     5
+2025    20
+2026    29
+
+== B3 fuentes top ==
+Source title
+Electronic Commerce Research and Applications                                                                      3
+Journal of Cleaner Production                                                                                      2
+Sustainability (Switzerland)                                                                                       2
+Appetite                                                                                                           2
+Driving Digital Consumer Value With Green Marketing Approaches                                                     2
+2026 International Conference on Artificial Intelligence for Sustainable Engineering and Innovation, AISEI 2026    1
+Fashion Highlight                                                                                                  1
+Geoforum                                                                                                           1
+Myths about Sustainable Consumption: Dispelled                                                                     1
+Procedia Computer Science                                                                                          1
+Managerial and Decision Economics                                                                                  1
+Proceedings of 2025 2nd International Conference on Digital Economy and Computer Science, DECS 2025                1
+
+== B2 por ano ==
+Year
+2021     43
+2022     46
+2023     57
+2024     75
+2025    159
+2026    145
+
+== B2: de que termino del bloque A viene ==
+  consumer autonomy                     57
+  algorithmic manipulation               6
+  algorithmic curation                   5
+  algorithmic bounded rationality        1
+  algorithmic authority                  1
+  choice architecture                  109
+  recommender system                   311
+  hyper-personalization                 28
+  hyperpersonalization                   4
+  filter bubble                          7
+  --> con al menos un termino NUCLEAR (bloque A estricto): 67 de 525
+
+== B3: de que termino del bloque A viene ==
+  consumer autonomy                      6
+  algorithmic manipulation               1
+  algorithmic curation                   1
+  choice architecture                   23
+  recommender system                    26
+  hyper-personalization                  2
+  hyperpersonalization                   1
+  filter bubble                          1
+  --> con al menos un termino NUCLEAR (bloque A estricto): 8 de 59

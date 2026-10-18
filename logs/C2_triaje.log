@@ -1,0 +1,60 @@
+== PUNTUACION ==
+count    637.00000
+mean       2.33752
+std        1.70480
+min       -3.00000
+25%        1.00000
+50%        2.00000
+75%        3.00000
+max        9.00000
+
+== BANDAS ==
+banda
+E1 (<=0)             69
+E2 (1-2)            302
+E3 (3-4)            206
+E4 (5-6)             46
+E5 (>=7)             14
+E0 (sin resumen)      5
+
+== s1_def x s2_ctx ==
+s2_ctx   0    1    2   3   4
+s1_def                      
+0       51  145  150  73  35
+1       13   64   48  23  10
+2        1    9    5   5   6
+3        0    1    2   1   0
+
+== Banda x ano ==
+banda  E1 (<=0)  E2 (1-2)  E3 (3-4)  E4 (5-6)  E5 (>=7)  E0 (sin resumen)
+Year                                                                     
+2021          9        17         6         1         1                 1
+2022          2        17        10         0         1                 0
+2023          5        21        11         3         0                 0
+2024          4        26        16         5         2                 1
+2025         20        89        54         8         1                 2
+2026         29       132       109        29         9                 1
+
+== Banda x tipo documental ==
+banda              E1 (<=0)  E2 (1-2)  E3 (3-4)  E4 (5-6)  E5 (>=7)  E0 (sin resumen)
+Document Type                                                                        
+Article                  42       197       143        31         7                 1
+Book                      3         3         4         0         0                 0
+Book chapter              7        43        22         7         0                 0
+Conference paper         14        44        22         3         4                 0
+Conference review         1         2         0         0         0                 0
+Editorial                 0         0         3         1         0                 1
+Erratum                   0         0         0         1         0                 0
+Note                      0         0         3         0         0                 2
+Review                    2        13         8         2         3                 0
+Short survey              0         0         1         1         0                 1
+
+== MUESTRA DE VALIDACION ==
+n = 99
+banda
+E1 (<=0)            20
+E2 (1-2)            20
+E3 (3-4)            20
+E4 (5-6)            20
+E5 (>=7)            14
+E0 (sin resumen)     5

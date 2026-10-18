@@ -1,0 +1,80 @@
+SOLUCION: n=18 (+1 atipico), k=4, silueta=0.247, cofenetica=0.789
+
+== PERFIL DE CADA DIMENSION ==
+
+--- D1 (n=4) ---
+   d1_locus_agencia                   usuario                    4/4 <<
+   d2_requiere_conciencia             si                         4/4 <<
+   d5_medible                         si_sin_instrumento         3/4 <<
+   d5_tipo_indicador                  na                         4/4 <<
+   d7_umbrales_no_linealidad          si                         4/4
+   d8_naturaleza_del_constructo       capacidad                  4/4 <<
+   d10_valencia_normativa             potencialmente_positiva    3/4
+   d11_nivel_de_analisis              individual                 4/4
+    Anker, 2024; Nokhiz & Ruwanpathirana, 2025
+
+--- D2 (n=4) ---
+   d1_locus_agencia                   relacion                   4/4
+   d2_requiere_conciencia             indiferente                4/4 <<
+   d4_momento_respecto_deliberacion   transversal                4/4 <<
+   d8_naturaleza_del_constructo       capacidad                  3/4
+   d9_via_de_perdida                  manipulacion_encubierta    3/4
+   d11_nivel_de_analisis              individual                 4/4
+    Bharti et al., 2026; Bjørlo et al., 2021; Cho & Rha, 2026; Ng-Soon-Chye, 2026
+
+--- D3 (n=6) ---
+   d1_locus_agencia                   relacion                   5/6
+   d4_momento_respecto_deliberacion   durante                    5/6
+   d5_medible                         si_con_instrumento         6/6 <<
+   d5_tipo_indicador                  autoinforme                6/6 <<
+   d8_naturaleza_del_constructo       estado_psicologico         5/6 <<
+   d11_nivel_de_analisis              individual                 6/6
+    Ahmad Husairi & Rossi, 2024; Grzesiuk et al., 2026; Han & Ko, 2025; Liu et al., 2026; Ru et al., 2025
+
+--- D4 (n=4) ---
+   d1_locus_agencia                   relacion                   4/4
+   d4_momento_respecto_deliberacion   durante                    4/4 <<
+   d5_medible                         si_con_instrumento         3/4
+   d8_naturaleza_del_constructo       condicion_relacional       3/4 <<
+   d11_nivel_de_analisis              diadico_usuario_sistema    4/4 <<
+    Gonçalves et al., 2024; Wang et al., 2025; William, 2026
+
+== VECINDARIO SEMANTICO (n=21) ==
+rol_del_constructo
+antecedente        11
+consecuencia        4
+marco_normativo     3
+vecino              3
+
+  antecedente (n=11): locus={'sistema': 7, 'relacion': 4}
+     nivel={'mercado_institucional': 5, 'diadico_usuario_sistema': 4, 'individual': 2}
+
+  consecuencia (n=4): locus={'relacion': 3, 'sistema': 1}
+     nivel={'individual': 4}
+
+  marco_normativo (n=3): locus={'relacion': 3}
+     nivel={'mercado_institucional': 2, 'diadico_usuario_sistema': 1}
+
+  vecino (n=3): locus={'relacion': 3}
+     nivel={'individual': 1, 'mercado_institucional': 1, 'diadico_usuario_sistema': 1}
+
+== T — TEORIAS DECLARADAS (n=40 definiciones) ==
+  Autodeterminacion (SDT)                   12
+  Confianza / aceptacion tecnologica         6
+  Arquitectura de decision / nudging         3
+  Estimulo-Organismo-Respuesta               2
+  Procesamiento de informacion / EKB         2
+  Teoria critica / autonomia normativa       2
+  Carga cognitiva                            1
+  Comportamiento planificado (TPB)           1
+
+== M — METODOS (n=40 definiciones) ==
+  Encuesta + SEM/PLS                        14
+  Conceptual / teorico                      12
+  Experimento                               11
+  Mixto                                      6
+  Cualitativo (entrevistas, tematico)        4
+  Revision                                   0
+  Mineria de texto / datos                   0
+
+Archivos finales escritos.

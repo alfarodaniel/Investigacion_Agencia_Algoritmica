@@ -1,0 +1,42 @@
+== VARIANZA DE LOS ATRIBUTOS (lote 1, n=11) ==
+  d1_locus_agencia                   k=3  Simpson=0.314  casi constante
+  d2_requiere_conciencia             k=3  Simpson=0.645  discrimina
+  d3_gradual_binaria                 k=1  Simpson=0.000  CONSTANTE - inutil para Jaccard
+  d4_momento_respecto_deliberacion   k=4  Simpson=0.678  discrimina
+  d5_medible                         k=2  Simpson=0.298  casi constante
+  d5_tipo_indicador                  k=3  Simpson=0.430  discrimina
+  d7_umbrales_no_linealidad          k=2  Simpson=0.496  discrimina
+
+== ROL DEL CONSTRUCTO (propuesta a validar) ==
+rol_del_constructo_PROPUESTO
+nucleo             5
+antecedente        3
+marco_normativo    1
+vecino             1
+consecuencia       1
+  N-001-D1  nucleo           autonomia del consumidor: el constructo mismo
+  N-006-D1  antecedente      AI-Augmented Memory: mecanismo del sistema que opera sobre la agencia
+  N-006-D2  nucleo           autonomy stance: tipologia de posturas de agencia
+  N-010-D1  marco_normativo  compromiso etico: principio de diseno que toma la autonomia como objeto a proteger
+  N-013-D1  antecedente      gobernanza algoritmica: mecanismo del sistema
+  N-013-D2  vecino           propiedad psicologica territorial: constructo contiguo, no de agencia
+  N-013-D3  consecuencia     intrusividad percibida: efecto de la intervencion algoritmica
+  N-014-D1  nucleo           autonomia en decisiones de gasto: el constructo mismo
+  N-016-D1  nucleo           autonomia del consumidor con rendicion de agencia: el constructo mismo
+  N-018-D1  antecedente      pluralidad de IA percibida: propiedad estructural de la arquitectura
+  N-018-D2  nucleo           autonomia del consumidor: el constructo mismo
+
+== TEORIAS DECLARADAS: frecuencia de familias ==
+  Self-Determination Theory (SDT)                 5 / 11
+  Stimulus-Organism-Response                      2 / 11
+  EKB / proceso de decision                       2 / 11
+  Arquitectura de la decision / nudging           2 / 11
+  Carga cognitiva                                 1 / 11
+  Propiedad psicologica                           1 / 11
+  Gobernanza algoritmica                          1 / 11
+  Teoria del Comportamiento Planificado (TPB)     0 / 11
+  TAM                                             0 / 11
+
+== CONTROL DE CITA LITERAL (< 15 palabras) ==
+  EXCEDE  N-006-D2  15 palabras -> recortar
+  EXCEDE  N-013-D3  17 palabras -> recortar
