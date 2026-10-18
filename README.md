@@ -66,7 +66,7 @@ Durante el desarrollo, este guion detectó dos inconsistencias reales en el manu
 ├── run_all.sh               Ejecuta la cadena completa
 ├── requirements.txt         Dependencias con versiones exactas
 ├── MANIFEST.csv             SHA-256 de cada archivo
-├── data/                    ENTRADAS · solo lectura
+├── data_publico/                    ENTRADAS · solo lectura
 ├── docs/                    Libro de códigos
 ├── scripts/                 15 guiones de Python + 1 de Node.js
 ├── out/                     Tablas y figuras · regenerable
