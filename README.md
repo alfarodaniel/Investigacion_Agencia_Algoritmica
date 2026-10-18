@@ -66,7 +66,7 @@ Durante el desarrollo, este guion detectó dos inconsistencias reales en el manu
 ├── requirements.txt         Dependencias con versiones exactas
 ├── MANIFEST.csv             SHA-256 de cada archivo
 ├── data/                    ENTRADAS · solo lectura
-├── docs/                    Manuscrito y libro de códigos · solo lectura
+├── docs/                    Libro de códigos
 ├── scripts/                 15 guiones de Python + 1 de Node.js
 ├── out/                     Tablas, figuras y artículo maquetado · regenerable
 └── logs/                    Registro por paso · regenerable
