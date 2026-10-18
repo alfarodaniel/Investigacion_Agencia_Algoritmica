@@ -1,0 +1,24 @@
+{
+  "identificacion": {
+    "B1": 642,
+    "B2": 525,
+    "B3": 59,
+    "B1b_sensibilidad": 785,
+    "bruto_B1_B2_B3": 1226,
+    "duplicados": 106,
+    "unicos": 1120
+  },
+  "nivel_1": {
+    "corpus_caracterizacion": 642
+  },
+  "nivel_2": {
+    "nucleo": 76,
+    "texto_completo_evaluado": 45,
+    "no_recuperados": 31,
+    "incluidos": 18,
+    "excluidos": 27,
+    "definiciones": 40,
+    "rol_nuclear": 19,
+    "vecindario": 21
+  }
+}

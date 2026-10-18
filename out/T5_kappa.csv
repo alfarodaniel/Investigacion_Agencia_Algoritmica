@@ -1,0 +1,12 @@
+atributo,acuerdo,kappa,n_categorias
+d8_naturaleza_del_constructo,0.895,0.85,5
+d5_medible,0.842,0.703,3
+d11_nivel_de_analisis,0.842,0.578,3
+d9_via_de_perdida,0.579,0.457,5
+d1_locus_agencia,0.632,0.414,4
+d5_tipo_indicador,0.632,0.398,4
+d4_momento_respecto_deliberacion,0.579,0.321,4
+d10_valencia_normativa,0.368,0.186,4
+d7_umbrales_no_linealidad,0.474,0.159,2
+d2_requiere_conciencia,0.421,0.143,3
+d3_gradual_binaria,0.947,0.0,2

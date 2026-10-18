@@ -1,0 +1,10 @@
+,Conjunto,n,Proporcion,Nota
+0,B1  Constructo (bloque A),642,100.0,Corpus de caracterizacion
+1,B1b Constructo ampliado (sensibilidad),785,+22.3 vs B1,"Anade ""consumer agency"" y ""algorithmic nudg*"""
+2,B2  Arquitectura algoritmica x consumidor,525,-,Bloque A ampliado AND bloque B
+3,B3  Arquitectura algoritmica x sostenible,59,-,Bloque A ampliado AND bloque C
+4,B1 ∩ B2,74,11.5% de B1,Constructo con vocabulario de consumidor
+5,B1 ∩ B3,8,1.2% de B1,Constructo con vocabulario sostenible
+6,B2 ∩ B3,30,5.7% de B2,Consumidor y sostenible
+7,B1 ∩ (B2 ∪ B3)  = nucleo de codificacion,76,11.8% de B1,Corpus del Nivel 2
+8,Union de las cuatro busquedas,1261,-,Registros unicos recuperados

@@ -1,0 +1,33 @@
+{
+  "IDENTIFICACION": {
+    "B1 constructo (bloque A), Scopus 2026-10-12": 642,
+    "B1b sensibilidad (A + consumer agency, algorithmic nudg*)": 785,
+    "B2 arquitectura x consumidor": 525,
+    "B3 arquitectura x sostenible": 59,
+    "Registros brutos sumados": 2011,
+    "Duplicados entre busquedas": 750,
+    "Registros unicos": 1261
+  },
+  "NIVEL_1_caracterizacion": {
+    "Corpus de caracterizacion bibliometrica (B1)": 642,
+    "Analizado con metadatos, sin lectura de texto completo": 642
+  },
+  "NIVEL_2_codificacion": {
+    "Nucleo pre-especificado B1 ∩ (B2 ∪ B3)": 76,
+    "Texto completo alcanzable": 34,
+    "No alcanzable por restriccion de acceso": 42,
+    "Texto completo evaluado (lote 1)": 8,
+    "Incluidos (lote 1)": 7,
+    "Excluidos (lote 1)": 1,
+    "Motivos de exclusion (lote 1)": {
+      "sin_definicion": 1
+    },
+    "Definiciones extraidas (lote 1)": 11,
+    "Pendientes de lectura": 26
+  },
+  "PROYECCION_al_cierre": {
+    "Incluidos esperados": 30,
+    "Definiciones esperadas": 47,
+    "De ellas, rol nucleo (5/11 observado)": 21
+  }
+}

@@ -1,0 +1,100 @@
+id_registro,INCLUIR_SI_NO,APORTA_DEFINICION_SI_NO,MOTIVO_EXCLUSION,s1_def,s2_ctx,s3_exc,score,banda,incluir,definicion
+B1-0357,NO,NO,Identidad artística,1,3,0,5.0,E4 (5-6),False,False
+B1-0062,SI,SI,,2,2,0,6.0,E4 (5-6),True,True
+B1-0438,NO,NO,Infraestructura energética,0,0,0,0.0,E1 (<=0),False,False
+B1-0175,NO,NO,Derecho algorítmico,0,0,0,0.0,E1 (<=0),False,False
+B1-0344,SI,SI,,1,3,0,5.0,E4 (5-6),True,True
+B1-0467,SI,SI,,0,4,0,,E0 (sin resumen),True,True
+B1-0492,NO,NO,Energía,1,2,2,0.0,E1 (<=0),False,False
+B1-0004,SI,SI,,1,4,0,6.0,E4 (5-6),True,True
+B1-0180,SI,SI,,0,2,0,2.0,E2 (1-2),True,True
+B1-0270,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0472,NO,NO,Creadores plataforma,0,1,0,1.0,E2 (1-2),False,False
+B1-0012,NO,NO,Salud reproductiva,0,2,1,0.0,E1 (<=0),False,False
+B1-0174,NO,NO,Autoridad religiosa,0,1,0,1.0,E2 (1-2),False,False
+B1-0266,NO,NO,Conocimiento organizacional,2,1,0,5.0,E4 (5-6),False,False
+B1-0388,NO,NO,Activismo digital,0,0,0,0.0,E1 (<=0),False,False
+B1-0024,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0123,SI,SI,,1,4,0,6.0,E4 (5-6),True,True
+B1-0571,SI,SI,,2,3,0,7.0,E5 (>=7),True,True
+B1-0242,NO,NO,Sin algoritmo,0,3,0,3.0,E3 (3-4),False,False
+B1-0338,NO,NO,Gestión artística,0,2,0,2.0,E2 (1-2),False,False
+B1-0597,NO,NO,Participación cívica,1,1,0,3.0,E3 (3-4),False,False
+B1-0358,NO,NO,Epistemología IA,0,0,0,0.0,E1 (<=0),False,False
+B1-0253,NO,NO,Logística almacén,2,1,0,5.0,E4 (5-6),False,False
+B1-0035,SI,NO,,0,2,0,2.0,E2 (1-2),True,False
+B1-0230,NO,NO,Comunidades Telegram,0,2,0,2.0,E2 (1-2),False,False
+B1-0396,SI,SI,,0,2,0,2.0,E2 (1-2),True,True
+B1-0502,NO,NO,Salud,0,2,0,,E0 (sin resumen),False,False
+B1-0216,SI,SI,,1,4,0,6.0,E4 (5-6),True,True
+B1-0441,SI,SI,,1,3,0,5.0,E4 (5-6),True,True
+B1-0155,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0310,NO,NO,Salud paciente,1,3,0,5.0,E4 (5-6),False,False
+B1-0374,NO,NO,Espiritualidad TikTok,0,2,0,2.0,E2 (1-2),False,False
+B1-0456,NO,NO,Teoría crítica,2,1,0,5.0,E4 (5-6),False,False
+B1-0287,NO,NO,Gestión organizacional,3,2,0,8.0,E5 (>=7),False,False
+B1-0379,NO,NO,Cultura rural,0,2,0,2.0,E2 (1-2),False,False
+B1-0505,NO,NO,Energía solar,0,2,1,0.0,E1 (<=0),False,False
+B1-0037,NO,NO,Salud cáncer,0,1,1,-1.0,E1 (<=0),False,False
+B1-0608,NO,NO,Política electoral,0,2,0,2.0,E2 (1-2),False,False
+B1-0491,SI,SI,,0,2,0,,E0 (sin resumen),True,True
+B1-0533,SI,SI,,2,3,0,7.0,E5 (>=7),True,True
+B1-0636,NO,NO,Humanidades digitales,0,0,0,0.0,E1 (<=0),False,False
+B1-0318,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0588,NO,NO,Islam y medios,0,0,0,0.0,E1 (<=0),False,False
+B1-0563,NO,NO,Descubrimiento contenido,1,1,0,3.0,E3 (3-4),False,False
+B1-0162,NO,NO,Sociología religiosa,0,1,1,-1.0,E1 (<=0),False,False
+B1-0280,SI,SI,,1,3,0,5.0,E4 (5-6),True,True
+B1-0413,NO,NO,Sin algoritmo,1,3,0,5.0,E4 (5-6),False,False
+B1-0140,NO,NO,Religión digital,1,2,0,4.0,E3 (3-4),False,False
+B1-0551,NO,NO,Literatura,0,0,0,0.0,E1 (<=0),False,False
+B1-0392,SI,SI,,1,2,0,4.0,E3 (3-4),True,True
+B1-0421,NO,NO,Derecho plataformas,0,2,0,2.0,E2 (1-2),False,False
+B1-0484,NO,NO,Multiagentes,0,0,0,0.0,E1 (<=0),False,False
+B1-0418,SI,SI,,0,3,0,3.0,E3 (3-4),True,True
+B1-0061,NO,NO,Influencers IA,1,3,0,5.0,E4 (5-6),False,False
+B1-0044,NO,NO,Activismo,0,2,0,2.0,E2 (1-2),False,False
+B1-0518,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0507,NO,NO,Populismo comercial,0,2,0,2.0,E2 (1-2),False,False
+B1-0478,SI,SI,,0,2,1,0.0,E1 (<=0),True,True
+B1-0565,SI,SI,,0,2,0,,E0 (sin resumen),True,True
+B1-0192,NO,NO,Seguros digitales,0,3,0,3.0,E3 (3-4),False,False
+B1-0474,NO,NO,Gobernanza IA,2,0,0,4.0,E3 (3-4),False,False
+B1-0389,NO,NO,Conflictos OSINT,0,2,0,2.0,E2 (1-2),False,False
+B1-0570,SI,SI,,1,1,0,3.0,E3 (3-4),True,True
+B1-0343,NO,NO,Periodismo IA,1,1,0,3.0,E3 (3-4),False,False
+B1-0329,NO,NO,Educación verde,1,2,1,2.0,E2 (1-2),False,False
+B1-0057,NO,NO,Religión IA,1,1,0,3.0,E3 (3-4),False,False
+B1-0503,SI,SI,,0,3,0,3.0,E3 (3-4),True,True
+B1-0059,SI,SI,,0,4,0,4.0,E3 (3-4),True,True
+B1-0579,NO,NO,Criptomonedas,0,0,0,0.0,E1 (<=0),False,False
+B1-0029,NO,NO,Cámaras de eco,0,2,0,2.0,E2 (1-2),False,False
+B1-0177,SI,SI,,2,3,0,7.0,E5 (>=7),True,True
+B1-0094,SI,SI,,1,3,0,5.0,E4 (5-6),True,True
+B1-0536,NO,NO,Noticias algoritmos,0,1,0,1.0,E2 (1-2),False,False
+B1-0207,NO,NO,Persuasión web,0,3,0,3.0,E3 (3-4),False,False
+B1-0367,SI,SI,,0,4,0,4.0,E3 (3-4),True,True
+B1-0031,NO,NO,Memoria histórica,1,2,0,4.0,E3 (3-4),False,False
+B1-0450,NO,NO,Educación superior,0,2,0,2.0,E2 (1-2),False,False
+B1-0585,NO,NO,Computación cuántica,0,0,0,0.0,E1 (<=0),False,False
+B1-0394,NO,NO,Logística segura,0,0,0,0.0,E1 (<=0),False,False
+B1-0239,NO,NO,Gestión talento,2,3,0,7.0,E5 (>=7),False,False
+B1-0391,SI,SI,,1,4,0,6.0,E4 (5-6),True,True
+B1-0117,NO,NO,Seguridad plataformas,0,1,1,-1.0,E1 (<=0),False,False
+B1-0531,NO,NO,Conciencia algorítmica,1,1,0,3.0,E3 (3-4),False,False
+B1-0166,NO,NO,Migración digital,2,1,0,5.0,E4 (5-6),False,False
+B1-0023,NO,NO,Educación mediática,2,2,0,6.0,E4 (5-6),False,False
+B1-0366,SI,SI,,3,3,0,9.0,E5 (>=7),True,True
+B1-0471,SI,SI,,2,4,0,8.0,E5 (>=7),True,True
+B1-0341,NO,NO,Vacunas,0,2,0,,E0 (sin resumen),False,False
+B1-0042,SI,SI,,2,3,0,7.0,E5 (>=7),True,True
+B1-0032,SI,SI,,1,4,0,6.0,E4 (5-6),True,True
+B1-0326,NO,NO,Evaluación IA,0,0,0,0.0,E1 (<=0),False,False
+B1-0479,SI,SI,,0,2,0,2.0,E2 (1-2),True,True
+B1-0071,SI,SI,,0,2,0,2.0,E2 (1-2),True,True
+B1-0129,NO,NO,Redes sociales IA,0,1,1,-1.0,E1 (<=0),False,False
+B1-0138,SI,SI,,3,1,0,7.0,E5 (>=7),True,True
+B1-0437,SI,SI,,1,3,0,5.0,E4 (5-6),True,True
+B1-0148,NO,NO,Curaduría Google,0,3,0,3.0,E3 (3-4),False,False
+B1-0370,NO,NO,Deepfakes,1,1,0,3.0,E3 (3-4),False,False
+B1-0104,NO,NO,Bibliotecas,1,1,0,3.0,E3 (3-4),False,False

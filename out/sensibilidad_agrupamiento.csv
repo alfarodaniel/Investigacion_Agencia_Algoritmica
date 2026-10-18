@@ -1,0 +1,13 @@
+esquema,k,silueta,tamanos,degenerada,cofenetica
+"COMPLETO (10 atributos, pre-especificado)",2,0.193,"[8, 10]",False,0.789
+"COMPLETO (10 atributos, pre-especificado)",3,0.209,"[8, 6, 4]",False,0.789
+"COMPLETO (10 atributos, pre-especificado)",4,0.247,"[4, 4, 6, 4]",False,0.789
+"COMPLETO (10 atributos, pre-especificado)",5,0.242,"[4, 4, 6, 3, 1]",True,0.789
+"COMPLETO (10 atributos, pre-especificado)",6,0.241,"[4, 4, 5, 1, 3, 1]",True,0.789
+"FIABLES (5 atributos, kappa>=0,40)",2,0.281,"[5, 13]",False,0.809
+"FIABLES (5 atributos, kappa>=0,40)",3,0.317,"[5, 4, 9]",False,0.809
+"FIABLES (5 atributos, kappa>=0,40)",4,0.287,"[5, 4, 8, 1]",True,0.809
+"FIABLES (5 atributos, kappa>=0,40)",5,0.334,"[5, 4, 3, 5, 1]",True,0.809
+"FIABLES (5 atributos, kappa>=0,40)",6,0.327,"[4, 1, 4, 3, 5, 1]",True,0.809
+ARI completo(k=4) vs fiables(k=4),,0.535,,,
+ARI completo(k=4) vs fiables(k=3),,0.537,,,
