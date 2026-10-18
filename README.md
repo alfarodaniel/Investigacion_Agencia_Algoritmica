@@ -62,6 +62,7 @@ Durante el desarrollo, este guion detectó dos inconsistencias reales en el manu
 
 ```
 .
+├── Articulo_Alfaro_Agencia_Algoritmica.pdf
 ├── run_all.sh               Ejecuta la cadena completa
 ├── requirements.txt         Dependencias con versiones exactas
 ├── MANIFEST.csv             SHA-256 de cada archivo
