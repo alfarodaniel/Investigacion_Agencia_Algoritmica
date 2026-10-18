@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: >-
+  Paquete de reproducibilidad: La agencia algorítmica como constructo
+  emergente en la investigación de mercados
+message: >-
+  Si utiliza estos datos o este código, por favor cite el artículo y el
+  repositorio.
+type: software
+authors:
+  - family-names: Alfaro Rojas
+    given-names: Daniel
+    affiliation: Instituto Europeo de Posgrado
+    city: Bogotá
+    country: CO
+abstract: >-
+  Datos, código y manual de reproducibilidad de una revisión sistemática
+  PRISMA 2020 sobre el constructo de agencia algorítmica en la investigación
+  de mercados (2021-2026). Toma la definición, y no el artículo, como unidad
+  de análisis: 40 definiciones extraídas de 18 documentos, agrupadas mediante
+  similitud de Jaccard y enlace jerárquico promedio. Incluye un guion de
+  verificación que recalcula las 112 cifras publicadas desde los datos crudos.
+keywords:
+  - agencia algorítmica
+  - autonomía del consumidor
+  - sistemas de recomendación
+  - revisión sistemática
+  - PRISMA 2020
+  - investigación de mercados
+  - reproducibilidad
+license: MIT
+license-url: https://opensource.org/licenses/MIT
+version: 1.0.0
+date-released: '2026-10-18'
+references:
+  - type: article
+    title: >-
+      La agencia algorítmica como constructo emergente en la investigación de
+      mercados: revisión sistemática de definiciones, dimensiones y
+      operacionalizaciones (2021-2026)
+    authors:
+      - family-names: Alfaro Rojas
+        given-names: Daniel
+    year: 2026
+    institution:
+      name: Instituto Europeo de Posgrado

@@ -1,0 +1,12 @@
+# Entorno verificado el 18 de octubre de 2026 (Python 3.13.16, Linux x86_64).
+# Las versiones indicadas son las empleadas en la ejecución original.
+# Versiones posteriores dentro de la misma rama mayor deberían reproducir
+# los resultados; ante cualquier discrepancia, fijar exactamente estas.
+
+pandas==3.0.5
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+pillow==12.3.0
+
